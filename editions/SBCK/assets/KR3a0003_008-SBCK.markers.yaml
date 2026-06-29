@@ -1,0 +1,59 @@
+canonical_identifier: bkk:krp/KR3a0003/SBCK/v1/markers/8
+seq: 8
+markers:
+  front: []
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR3a0003_SBCK_008-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR3a0003_SBCK_008-1a01}
+  - {type: 'kr:newline', offset: 17, content: '
+
+      ', id: KR3a0003_SBCK_008-bkkkrnewl2}
+  - {type: line-break, offset: 17, content: '', id: KR3a0003_SBCK_008-1a02}
+  - {type: 'kr:newline', offset: 34, content: '
+
+      ', id: KR3a0003_SBCK_008-bkkkrnewl3}
+  - {type: line-break, offset: 34, content: '', id: KR3a0003_SBCK_008-1a03}
+  - {type: 'kr:newline', offset: 51, content: '
+
+      ', id: KR3a0003_SBCK_008-bkkkrnewl4}
+  - {type: line-break, offset: 51, content: '', id: KR3a0003_SBCK_008-1a04}
+  - {type: 'kr:newline', offset: 68, content: '
+
+      ', id: KR3a0003_SBCK_008-bkkkrnewl5}
+  - {type: line-break, offset: 68, content: '', id: KR3a0003_SBCK_008-1a05}
+  - {type: indent, offset: 70, content: 　, id: KR3a0003_SBCK_008-bkkind1}
+  - {type: 'kr:newline', offset: 84, content: '
+
+      ', id: KR3a0003_SBCK_008-bkkkrnewl6}
+  - {type: line-break, offset: 84, content: '', id: KR3a0003_SBCK_008-1a06}
+  - {type: 'kr:newline', offset: 101, content: '
+
+      ', id: KR3a0003_SBCK_008-bkkkrnewl7}
+  - {type: line-break, offset: 101, content: '', id: KR3a0003_SBCK_008-1a07}
+  - {type: 'kr:newline', offset: 118, content: '
+
+      ', id: KR3a0003_SBCK_008-bkkkrnewl8}
+  - {type: line-break, offset: 118, content: '', id: KR3a0003_SBCK_008-1a08}
+  - {type: 'kr:newline', offset: 135, content: '
+
+      ', id: KR3a0003_SBCK_008-bkkkrnewl9}
+  - {type: page-break, offset: 135, content: '', id: KR3a0003_SBCK_008-1b}
+  - {type: 'kr:newline', offset: 135, content: '
+
+      ', id: KR3a0003_SBCK_008-bkkkrnewl10}
+  - {type: line-break, offset: 135, content: '', id: KR3a0003_SBCK_008-1b01}
+  - {type: 'kr:newline', offset: 152, content: '
+
+      ', id: KR3a0003_SBCK_008-bkkkrnewl11}
+  - {type: line-break, offset: 152, content: '', id: KR3a0003_SBCK_008-1b02}
+  - {type: 'kr:newline', offset: 159, content: '
+
+      ', id: KR3a0003_SBCK_008-bkkkrnewl12}
+  - {type: page-break, offset: 159, content: '', id: KR3a0003_SBCK_008-2a}
+  - {type: 'kr:newline', offset: 159, content: '
+
+      ', id: KR3a0003_SBCK_008-bkkkrnewl13}
+  back: []
+hash: sha256:4b7a545310e7983f27a2628426f048863023d3329290880420e5f491f04636b6

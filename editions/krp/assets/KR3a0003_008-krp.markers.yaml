@@ -1,0 +1,62 @@
+canonical_identifier: bkk:krp/KR3a0003/krp/v1/markers/8
+seq: 8
+markers:
+  front: []
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR3a0003_krp_008-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR3a0003_SBCK_008-1a01}
+  - {type: variant, offset: 0, length: 159, content: 孔叢子記先聖之遺訓與世家有足稽者近世鮮所流傳今夏官貳卿林公填江右時取其書刋之以惠學者既而召去余適繼至得書以此爲託且曰挍讎之未精也因取而閱之譌至多蓫訪得蜀書意其據而脫繆乃滋甚幸有可以互見者又旁證逺取凢刋誤㡬六百字今可讀矣然前軰謂挍書如几塵隨去隨有故歐陽公讀韓乆得石刻益知讎正之難因書其末以諗後之君子淳熈戊申七月濡湏王藺書, WYG: 辭}
+  - {type: 'kr:newline', offset: 17, content: '
+
+      ', id: KR3a0003_krp_008-bkkkrnewl2}
+  - {type: line-break, offset: 17, content: '', id: KR3a0003_SBCK_008-1a02}
+  - {type: 'kr:newline', offset: 34, content: '
+
+      ', id: KR3a0003_krp_008-bkkkrnewl3}
+  - {type: line-break, offset: 34, content: '', id: KR3a0003_SBCK_008-1a03}
+  - {type: variant, offset: 47, length: 1, content: 適, SBCK: 􅃴}
+  - {type: variant, offset: 48, length: 1, content: 繼, SBCK: 􅁇}
+  - {type: 'kr:newline', offset: 51, content: '
+
+      ', id: KR3a0003_krp_008-bkkkrnewl4}
+  - {type: line-break, offset: 51, content: '', id: KR3a0003_SBCK_008-1a04}
+  - {type: 'kr:newline', offset: 68, content: '
+
+      ', id: KR3a0003_krp_008-bkkkrnewl5}
+  - {type: line-break, offset: 68, content: '', id: KR3a0003_SBCK_008-1a05}
+  - {type: indent, offset: 70, content: 　, id: KR3a0003_krp_008-bkkind1}
+  - {type: 'kr:newline', offset: 84, content: '
+
+      ', id: KR3a0003_krp_008-bkkkrnewl6}
+  - {type: line-break, offset: 84, content: '', id: KR3a0003_SBCK_008-1a06}
+  - {type: 'kr:newline', offset: 101, content: '
+
+      ', id: KR3a0003_krp_008-bkkkrnewl7}
+  - {type: line-break, offset: 101, content: '', id: KR3a0003_SBCK_008-1a07}
+  - {type: 'kr:newline', offset: 118, content: '
+
+      ', id: KR3a0003_krp_008-bkkkrnewl8}
+  - {type: line-break, offset: 118, content: '', id: KR3a0003_SBCK_008-1a08}
+  - {type: 'kr:newline', offset: 135, content: '
+
+      ', id: KR3a0003_krp_008-bkkkrnewl9}
+  - {type: page-break, offset: 135, content: '', id: KR3a0003_SBCK_008-1b}
+  - {type: 'kr:newline', offset: 135, content: '
+
+      ', id: KR3a0003_krp_008-bkkkrnewl10}
+  - {type: line-break, offset: 135, content: '', id: KR3a0003_SBCK_008-1b01}
+  - {type: 'kr:newline', offset: 152, content: '
+
+      ', id: KR3a0003_krp_008-bkkkrnewl11}
+  - {type: line-break, offset: 152, content: '', id: KR3a0003_SBCK_008-1b02}
+  - {type: 'kr:newline', offset: 159, content: '
+
+      ', id: KR3a0003_krp_008-bkkkrnewl12}
+  - {type: page-break, offset: 159, content: '', id: KR3a0003_SBCK_008-2a}
+  - {type: 'kr:newline', offset: 159, content: '
+
+      ', id: KR3a0003_krp_008-bkkkrnewl13}
+  back: []
+hash: sha256:2d6c3037b1fc28611f3dfa3f52ab33226d6b3d5b6af4c0fb58b1c3a7ab86f963

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3a0003/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 後
+  hash: sha256:e9021c4873531e709ba9fb377637adff6f5254c68a55353166fd292fa001dca3
+metadata:
+  title: 孔叢子
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 03:49:01.713131'
+  source:
+    repository: kanripo
+    path: KR3a0003/KR3a0003_000.txt
+hash: sha256:f386979a26d260f63035c7131ecb315aff5096ff6f4742b027530549e34fe50c
