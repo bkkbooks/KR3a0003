@@ -578,6 +578,7 @@ markers:
   - {type: page-break, offset: 1471, content: '', id: KR3a0003_WYG_001-21a, image: WYG0695/WYG0695-0320a.png}
   - {type: punctuation, offset: 1474, content: (, id: KR3a0003_krp_002-bkkpn1}
   - {type: variant, offset: 1474, length: 66, content: 孔子家語云殺竇凖鳴犢及舜華又云趙簡子湏此二人而後從政則竇凖鳴犢爲一人舜華爲一人也史記世家云竇鳴犢與舜華徐廣注云或作鳴鐸竇凖今備存之逥, WYG: 廻}
+  - {type: voice, offset: 1474, length: 65, name: note, id: n1}
   - {type: punctuation, offset: 1483, content: /, id: KR3a0003_krp_002-bkkpn2}
   - {type: punctuation, offset: 1492, content: ), id: KR3a0003_krp_002-bkkpn3}
   - {type: 'kr:newline', offset: 1492, content: '
@@ -734,6 +735,7 @@ markers:
   - {type: line-break, offset: 1829, content: '', id: KR3a0003_SBCK_002-8a04}
   - {type: punctuation, offset: 1835, content: (, id: KR3a0003_krp_002-bkkpn10}
   - {type: variant, offset: 1835, length: 5, content: 一作待清時, WYG: ''}
+  - {type: voice, offset: 1835, length: 5, name: note, id: n2}
   - {type: punctuation, offset: 1838, content: /, id: KR3a0003_krp_002-bkkpn11}
   - {type: punctuation, offset: 1840, content: ), id: KR3a0003_krp_002-bkkpn12}
   - {type: 'kr:newline', offset: 1840, content: '
@@ -1893,4 +1895,4 @@ markers:
 
       ', id: KR3a0003_krp_002-bkkkrnewl344}
   back: []
-hash: sha256:353ab412cc2cb796b4de08a3ad7ebe2a05a3062bb629d7031dbbc360503d1ff3
+hash: sha256:3ad0e603d2fde3286485e0cda8061fcd96aa5ab814adfe92b4bb2d8784da77dc

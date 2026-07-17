@@ -28,16 +28,16 @@ assets:
   - {seq: 8, filename: KR3a0003_008-krp.yaml, hash: 'sha256:283e725155084922ca5d7ada7fa4243f25cb31a2fd1444e4bd0b72dca2e392be'}
   - {seq: 9, filename: KR3a0003_009-krp.yaml, hash: 'sha256:aad0cc38b28230745c5f4669fec6f454aebd7357b01bfa0f0228f2c5ef913444'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3a0003_000-krp.markers.yaml, hash: 'sha256:2201eabec6b0b4f88a06ad9314fe03b8b22b9b982d183d84a9399f395e8f566f'}
+  - {seq: 0, role: markers, filename: assets/KR3a0003_000-krp.markers.yaml, hash: 'sha256:ab1f4e78479c2770d0111af079b5f2b34b90c875e5660c0c64e5d8973923bfc2'}
   - {seq: 1, role: markers, filename: assets/KR3a0003_001-krp.markers.yaml, hash: 'sha256:af7992ba5056b1b950f3aad0c25585fd018bc0a5ab901f0a187c710ce672e861'}
-  - {seq: 2, role: markers, filename: assets/KR3a0003_002-krp.markers.yaml, hash: 'sha256:353ab412cc2cb796b4de08a3ad7ebe2a05a3062bb629d7031dbbc360503d1ff3'}
+  - {seq: 2, role: markers, filename: assets/KR3a0003_002-krp.markers.yaml, hash: 'sha256:3ad0e603d2fde3286485e0cda8061fcd96aa5ab814adfe92b4bb2d8784da77dc'}
   - {seq: 3, role: markers, filename: assets/KR3a0003_003-krp.markers.yaml, hash: 'sha256:c8f74aeb5303216fa4273b8f6f6cda2bcf57517e87e8850edbb72a8affc19ce1'}
   - {seq: 4, role: markers, filename: assets/KR3a0003_004-krp.markers.yaml, hash: 'sha256:5c3dcda363f8ad93aac4a81ef7333c1a5085a6e1545adab909a352a477cb48ff'}
-  - {seq: 5, role: markers, filename: assets/KR3a0003_005-krp.markers.yaml, hash: 'sha256:b86139f84bb742aa96d8a64a2743efe31fa52a2b906b34749002a629aa82d9fe'}
+  - {seq: 5, role: markers, filename: assets/KR3a0003_005-krp.markers.yaml, hash: 'sha256:d1c58ca49dc5fbf8322b6559114d63e3d32f28ef273fab880e4118230a052cbf'}
   - {seq: 6, role: markers, filename: assets/KR3a0003_006-krp.markers.yaml, hash: 'sha256:49611e596046ffaac401dc1a97324d4f9e43a321775e62608357d6fad6c48e80'}
-  - {seq: 7, role: markers, filename: assets/KR3a0003_007-krp.markers.yaml, hash: 'sha256:125cc65c147a5e272d44a9ab7284eea5833e77c798fae9ff9d652366b4586b5a'}
+  - {seq: 7, role: markers, filename: assets/KR3a0003_007-krp.markers.yaml, hash: 'sha256:581b49c6002c471c73320cd5711b334dcd39d60c2424b819f026bf816ae2afad'}
   - {seq: 8, role: markers, filename: assets/KR3a0003_008-krp.markers.yaml, hash: 'sha256:2d6c3037b1fc28611f3dfa3f52ab33226d6b3d5b6af4c0fb58b1c3a7ab86f963'}
-  - {seq: 9, role: markers, filename: assets/KR3a0003_009-krp.markers.yaml, hash: 'sha256:3b3f2f0a0aca2a5b9223bbae432364842d27fccdc5d29eee15a7aade3b52cb16'}
+  - {seq: 9, role: markers, filename: assets/KR3a0003_009-krp.markers.yaml, hash: 'sha256:aba9389a06b483437e965efbc2a07f198d04d3c2a0453b18a246db9648dce90e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -139,4 +139,4 @@ table_of_contents:
   label: juan 009
   type: section
   level: 1
-hash: sha256:a09d19194a8eaf7b3ab5887bb1e6e30329ef32d8ad967fd67a32f6557c9ebdc7
+hash: sha256:af536cffe37de66cdbf5ae62d9c34128f32881de7c4a14df5e91553fa59a5a36

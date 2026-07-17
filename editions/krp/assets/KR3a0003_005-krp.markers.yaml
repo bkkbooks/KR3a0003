@@ -1891,6 +1891,7 @@ markers:
   - {type: variant, offset: 4966, length: 1, content: 爲, WYG: 為}
   - {type: variant, offset: 4972, length: 5, content: 相之一作覇, WYG: ''}
   - {type: punctuation, offset: 4974, content: (, id: KR3a0003_krp_005-bkkpn1}
+  - {type: voice, offset: 4974, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 4977, content: /, id: KR3a0003_krp_005-bkkpn2}
   - {type: punctuation, offset: 4980, content: ), id: KR3a0003_krp_005-bkkpn3}
   - {type: variant, offset: 4981, length: 0, content: '', WYG: 其}
@@ -2157,4 +2158,4 @@ markers:
 
       ', id: KR3a0003_krp_005-bkkkrnewl398}
   back: []
-hash: sha256:b86139f84bb742aa96d8a64a2743efe31fa52a2b906b34749002a629aa82d9fe
+hash: sha256:d1c58ca49dc5fbf8322b6559114d63e3d32f28ef273fab880e4118230a052cbf
